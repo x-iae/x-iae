@@ -5,7 +5,7 @@
 
 ---
 
-💡 &nbsp;I’m a software engineer with 8 years of experience in developing and designing distributed applications built on top of cutting-edge technologies. I mainly develop using Java, React, VUE and Angular and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself.\
+💡 &nbsp;I’m a software developer with 8 years of experience in developing and designing distributed applications built on top of cutting-edge technologies. I mainly develop using Java, React, VUE and Angular and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions\
 ✉️ &nbsp;You can email me at ishara.abeynayake@xinfinit.com. I'll try to respond as soon as possible!
 
