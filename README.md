@@ -24,7 +24,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Webstorm](https://img.shields.io/badge/-Webstorm-05122A?style=flat&logo=webstorm&logoColor=007ACC)&nbsp;
 
-### 📫 &nbsp; How to reach me:
-
----
-><a href="mailto:ishara.abeynayake@xinfinit.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
