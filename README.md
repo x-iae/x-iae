@@ -1,4 +1,3 @@
-![BannerGIF](assets/logo.png)
 ![version :2021](https://img.shields.io/badge/version-2021-informational?style=flat) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=x-iae&color=red)&nbsp;
 [![GitHub x-iae](https://img.shields.io/github/followers/x-iae?label=follow&style=social)](https://github.com/x-iae)&nbsp;
